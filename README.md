@@ -1,9 +1,9 @@
-# odin-recipes
+
 # Odin Recipes
 
 Welcome to my **Odin Recipes** project!
 
-This is a simple website built as part of [The Odin Project]Foundations curriculum. The goal of this project is to create a basic HTML website that showcases a few of my favorite recipes.
+This simple website was built as part of [The Odin Project]Foundations curriculum. This project aims to create a basic HTML website showcasing a few of my favourite recipes.
 
 ##  Project Overview
 
@@ -21,14 +21,14 @@ By completing this project, I have demonstrated the following foundational web d
 
 - Writing clean, semantic HTML
 - Structuring content into multiple linked pages
-- Organizing a simple project folder
+- Organising a simple project folder
 - Using Git for version control
 - Creating and managing a GitHub repository
 - Understanding basic web navigation and links
 
-## 🚀What's Next?
+## What's Next?
 
-In future stages of The Odin Project, I’ll continue to build on this by learning about CSS, JavaScript, and creating more complex and interactive web applications.
+In future stages of The Odin Project, I’ll continue to build on this by learning about CSS, JavaScript, and creating complex and interactive web applications.
 
 ---
 
